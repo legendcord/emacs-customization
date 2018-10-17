@@ -1,0 +1,12 @@
+elpa/
+.python-environments/
+ac-comphist.dat
+auto-save-list/
+ido.last
+ido.last~
+init.el~
+init_backup.el
+init_backup.el~
+installPackage.el
+projectile-bookmarks.eld
+smex-items
